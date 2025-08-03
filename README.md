@@ -17,6 +17,9 @@ Implements the following basic data structures using Python:
 - `linked_list.py`: Singly linked list with insert, delete, and traversal
 - `rooted_tree.py`: Rooted tree using linked nodes (optional part included)
 
+### Report
+- `Medians & Statistics report` : Report with analysis, complexity breakdown, use cases, and references
+
 ## How to Run the Code
 
 Run any `.py` file using the following command in your terminal:
