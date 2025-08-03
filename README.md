@@ -19,5 +19,12 @@ Implements the following basic data structures using Python:
 
 ## How to Run the Code
 
-Run any `.py` file using the command below:
+Run any `.py` file using the following command in your terminal:
+
+    python filename.py
+
+### Example:
+
+    python selection_algorithms/randomized_quickselect.py
+    python data_structures/linked_list.py
 
